@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-alpn-client-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-alpn-server-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-annotations-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-cdi-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-client-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-continuation-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-deploy-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-http-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-io-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-jaas-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-jaspi-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-jmx-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-jndi-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-plus-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-proxy-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-quickstart-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-rewrite-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-schemas-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-security-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-server-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-servlet-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-servlets-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-util-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-webapp-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/jetty-xml-9.2.18.v20160721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/jetty-distribution-9.2.18.v20160721/lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjb24/Dropbox/Blum/workspace-444/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
